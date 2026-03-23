@@ -14,9 +14,6 @@
 </p>
 
 ---
-
-### professional profile
-
 With over four years of professional experience in full-stack development, I deliver scalable, high-performance web and mobile solutions tailored to business objectives. I specialize in architecting and implementing user-centric applications, transforming sophisticated UI/UX designs into seamless experiences while developing secure, maintainable backend APIs.
 
 - **expertise**: full-stack architecture · cross-platform mobile · API development
@@ -27,50 +24,38 @@ With over four years of professional experience in full-stack development, I del
 
 ---
 
-### core competencies
+### Core Competencies
 
 <table width="100%" align="center">
   <tr>
     <td width="25%" valign="top">
-      <h3>frontend</h3>
+      <h3>Frontend</h3>
       <p>React · Vue · Svelte<br>Next.js · Nuxt.js · TypeScript</p>
     </td>
     <td width="25%" valign="top">
-      <h3>backend</h3>
-      <p>PHP · Laravel · Node.js<br>RESTful APIs · Authentication</p>
+      <h3>Backend</h3>
+      <p>PHP · Laravel · Node.js<br>RESTful APIs</p>
     </td>
     <td width="25%" valign="top">
-      <h3>mobile</h3>
+      <h3>Mobile Development</h3>
       <p>React Native · Expo · Flutter<br>Cross-platform development</p>
     </td>
-    <td width="25%" valign="top">
-      <h3>css frameworks</h3>
-      <p>TailwindCSS · Material UI<br>Paper UI Kit · Responsive design</p>
-    </td>
-  </tr>
-  <tr>
     <td width="25%" valign="top">
       <h3>databases</h3>
       <p>PostgreSQL · MySQL · MongoDB<br>Query optimization · Data modeling</p>
     </td>
+  </tr>
+  <tr>
     <td width="25%" valign="top">
-      <h3>design tools</h3>
-      <p>Figma · Adobe Illustrator · Inkscape<br>UI/UX translation · Prototyping</p>
-    </td>
-    <td width="25%" valign="top">
-      <h3>devops & tools</h3>
+      <h3>Devops & Tools</h3>
       <p>Git · Linux · Docker<br>AWS · Vercel · Deployment strategies</p>
-    </td>
-    <td width="25%" valign="top">
-      <h3>languages</h3>
-      <p>English · Amharic<br>Multilingual application support</p>
     </td>
   </tr>
 </table>
 
 ---
 
-### technical arsenal
+### Technical arsenal
 
 <table width="100%" align="center">
   <tr>
@@ -101,57 +86,24 @@ With over four years of professional experience in full-stack development, I del
 
 ---
 
-### experience highlights
-
-<table width="100%" align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Le'Hager Business and Technologies <span style="color: #fb4f05; font-weight: normal;">2021–2024</span></h3>
-      <p><em>Full-Stack Application Developer</em><br>
-      Architected scalable applications using React Native, Next.js, and TypeScript. Conducted user research and implemented redesigned interfaces with TailwindCSS, optimizing cross-platform performance and visual appeal.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Melfan Tech <span style="color: #fb4f05; font-weight: normal;">2024–2025</span></h3>
-      <p><em>Full Stack Web & Mobile Developer</em><br>
-      Design and deliver end-to-end solutions using Flutter, Laravel, Vue.js, and React. Implement multilingual support (English/Amharic) and custom full-stack applications for diverse clientele.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Ethio-Linker <span style="color: #fb4f05; font-weight: normal;">2022–2023</span></h3>
-      <p><em>Frontend Developer</em><br>
-      Translated UI designs into functional code using Next.js and React Native. Integrated Material UI, Paper UI Kit, and i18n for localization. Collaborated with backend teams via Jira.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Freelance · Tearfund Ireland <span style="color: #fb4f05; font-weight: normal;">2023–2024</span></h3>
-      <p><em>Full-Stack & Mobile Developer</em><br>
-      Developed a self-help groups management app with Laravel and MySQL. Designed intuitive UI and delivered training for staff members.</p>
-    </td>
-  </tr>
-</table>
-
----
-
-### engineering metrics
-
 <div align="center">
   <table width="100%">
     <tr>
       <td align="center" width="25%">
         <h2 style="color: #fb4f05;">4+</h2>
-        <p>years of professional experience</p>
+        <p>Years of Professional Experience</p>
       </td>
       <td align="center" width="25%">
         <h2 style="color: #fb4f05;">10+</h2>
-        <p>full-stack applications delivered</p>
+        <p>Full-stack Applications Delivered</p>
       </td>
       <td align="center" width="25%">
-        <h2 style="color: #fb4f05;">3+</h2>
-        <p>mobile frameworks mastered</p>
+        <h2 style="color: #fb4f05;">2+</h2>
+        <p>Mobile Frameworks Mastered</p>
       </td>
       <td align="center" width="25%">
-        <h2 style="color: #fb4f05;">multi</h2>
-        <p>sector experience</p>
+        <h2 style="color: #fb4f05;">Multi</h2>
+        <p>Sector Experience</p>
       </td>
     </tr>
   </table>
@@ -159,7 +111,7 @@ With over four years of professional experience in full-stack development, I del
 
 ---
 
-### github analytics
+### Github Analytics
 
 <div align="center">
   <table width="100%">
@@ -181,20 +133,20 @@ With over four years of professional experience in full-stack development, I del
 
 ---
 
-### current focus
+### Current Focus
 
 <table width="100%" align="center">
   <tr>
     <td width="33%" valign="top">
-      <h3>scalable architecture</h3>
+      <h3>Scalable Architecture</h3>
       <p>Building enterprise-grade applications that grow with user demand while maintaining performance</p>
     </td>
     <td width="33%" valign="top">
-      <h3>cloud infrastructure</h3>
+      <h3>Cloud Infrastructure</h3>
       <p>Deepening expertise in AWS, Docker, and containerization for production-ready deployments</p>
     </td>
     <td width="33%" valign="top">
-      <h3>technical leadership</h3>
+      <h3>Technical Leadership</h3>
       <p>Contributing to open-source and sharing architectural knowledge with the development community</p>
     </td>
   </tr>
