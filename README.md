@@ -1,111 +1,195 @@
-<h1 align="center">⚡ Senshaw B | Full Stack Architect ⚡</h1>
-<h3 align="center">Crafting Scalable Digital Experiences Across Web & Mobile</h3>
+<h1 align="center">Senshaw B <span style="color: #fb4f05;">//</span> Full Stack Architect</h1>
+<h3 align="center">Building scalable digital experiences across web & mobile</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=53nx-8&label=Profile%20views&color=0e75b6&style=flat" alt="53nx-8" />
-  <img src="https://img.shields.io/github/followers/53nx-8?label=Followers&style=social" alt="GitHub Followers" />
-</p>
-
-<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=53nx-8&label=profile%20views&color=fb4f05&style=flat-square" alt="53nx-8" />
+  <img src="https://img.shields.io/github/followers/53nx-8?label=followers&style=flat-square&color=fb4f05" alt="GitHub Followers" />
   <a href="https://twitter.com/53nx_8" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/53nx_8?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
+    <img src="https://img.shields.io/twitter/follow/53nx_8?logo=twitter&style=flat-square&color=fb4f05" alt="Twitter Follow" />
   </a>
 </p>
 
 ---
 
-### 🚀 What I Bring to the Table
-
-I'm a **Full Stack Developer** who thrives at the intersection of performance, scalability, and clean code. With expertise spanning modern JavaScript frameworks, backend architectures, and mobile development, I build solutions that don't just work—they excel.
-
-**Core Competencies:**
-- **Frontend Mastery**: React, Vue.js, Next.js, Nuxt.js — crafting responsive, component-driven UIs with Tailwind CSS and TypeScript
-- **Backend Engineering**: Node.js, Laravel, PHP — designing RESTful APIs, authentication systems, and database architectures
-- **Mobile Development**: React Native — delivering cross-platform apps with native performance
-- **Database Expertise**: PostgreSQL, MySQL, MongoDB — optimizing queries and data modeling for scale
-- **DevOps Mindset**: Git workflows, Linux environments, deployment strategies
-
----
-
-### 💡 About Me
-
-🔧 **Builder by nature** — I turn complex requirements into clean, maintainable code  
-🌱 **Perpetual learner** — currently diving deeper into cloud architecture and microservices  
-🎯 **Detail-oriented** — pixel-perfect frontends meet robust, secure backends  
-🤝 **Collaborative** — strong believer in clean code practices and team synergy  
-
-📫 **Let's build something great:** [senshawb@gmail.com](mailto:senshawb@gmail.com)
-
----
-
-### 🌐 Connect With Me
-
-<p align="left">
-<a href="https://twitter.com/53nx_8" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-</a>
-<a href="https://linkedin.com/in/senshawb" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-</p>
-
----
-
-### 🛠️ Tech Stack & Tools
-
-#### Frontend
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="Nuxt.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-</p>
-
-#### Backend & Databases
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-</p>
-
-#### Mobile & Tools
-<p align="left">
-  <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-</p>
-
----
-
-### 📈 GitHub Analytics
+### core competencies
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=53nx-8&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api?username=53nx-8&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" height="180px" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=53nx-8&theme=tokyonight" alt="GitHub Streak" />
+  <table>
+    <tr>
+      <td width="33%" valign="top">
+        <h3>frontend</h3>
+        <p>React · Vue.js · Next.js · Nuxt.js<br>TypeScript · Tailwind CSS</p>
+      </td>
+      <td width="33%" valign="top">
+        <h3>backend</h3>
+        <p>Node.js · Laravel · PHP<br>RESTful APIs · Authentication</p>
+      </td>
+      <td width="33%" valign="top">
+        <h3>mobile</h3>
+        <p>React Native<br>Cross-platform development</p>
+      </td>
+    </tr>
+    <tr>
+      <td width="33%" valign="top">
+        <h3>databases</h3>
+        <p>PostgreSQL · MySQL · MongoDB<br>Query optimization · Data modeling</p>
+      </td>
+      <td width="33%" valign="top">
+        <h3>devops</h3>
+        <p>Git · Linux · Deployment strategies<br>Cloud architecture</p>
+      </td>
+      <td width="33%" valign="top">
+        <h3>tools</h3>
+        <p>VS Code · Docker · AWS<br>Performance optimization</p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-### 🎯 Current Focus
+### about
 
-- Building scalable full-stack applications with modern architectures
-- Exploring cloud deployment (AWS, Docker) for production-ready solutions
-- Contributing to open-source and sharing knowledge with the dev community
+I turn complex requirements into clean, maintainable code. Focused on performance, scalability, and thoughtful architecture.
+
+- **expertise**: full-stack development with modern JavaScript frameworks
+- **approach**: component-driven design, efficient APIs, optimized databases
+- **goal**: build solutions that scale without sacrificing user experience
+
+📫 [senshawb@gmail.com](mailto:senshawb@gmail.com)
+
+---
+
+### tech stack
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="80">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="36" height="36"/><br>React
+      </td>
+      <td align="center" width="80">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="36" height="36"/><br>Vue
+      </td>
+      <td align="center" width="80">
+        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="36" height="36"/><br>Next
+      </td>
+      <td align="center" width="80">
+        <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" width="36" height="36"/><br>Nuxt
+      </td>
+      <td align="center" width="80">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="36" height="36"/><br>TS
+      </td>
+      <td align="center" width="80">
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="36" height="36"/><br>Tailwind
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="80">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="36" height="36"/><br>Node
+      </td>
+      <td align="center" width="80">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="36" height="36"/><br>PHP
+      </td>
+      <td align="center" width="80">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" width="36" height="36"/><br>Laravel
+      </td>
+      <td align="center" width="80">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="36" height="36"/><br>Postgres
+      </td>
+      <td align="center" width="80">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="36" height="36"/><br>MySQL
+      </td>
+      <td align="center" width="80">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="36" height="36"/><br>Mongo
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="80">
+        <img src="https://reactnative.dev/img/header_logo.svg" width="36" height="36"/><br>RNative
+      </td>
+      <td align="center" width="80">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="36" height="36"/><br>Git
+      </td>
+      <td align="center" width="80">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="36" height="36"/><br>Linux
+      </td>
+      <td align="center" width="80">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="36" height="36"/><br>Docker
+      </td>
+      <td align="center" width="80">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="36" height="36"/><br>Figma
+      </td>
+      <td align="center" width="80">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="36" height="36"/><br>VSCode
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### github analytics
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=53nx-8&show_icons=true&locale=en&layout=compact&theme=dark&title_color=fb4f05&icon_color=fb4f05" alt="Top Languages" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=53nx-8&show_icons=true&locale=en&theme=dark&title_color=fb4f05&icon_color=fb4f05" alt="GitHub Stats" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=53nx-8&theme=dark&ring=fb4f05&fire=fb4f05&currStreakLabel=fb4f05" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### current focus
+
+<table align="center">
+  <tr>
+    <td width="33%" valign="top">
+      <h3>scalable architectures</h3>
+      <p>Building applications that grow with user demand</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>cloud & devops</h3>
+      <p>AWS · Docker · Containerization strategies</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>open source</h3>
+      <p>Contributing and sharing knowledge with the community</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### connect
+
+<p align="center">
+  <a href="https://twitter.com/53nx_8" target="_blank">
+    <img src="https://img.shields.io/badge/twitter-@53nx_8-000000?style=flat-square&logo=twitter&logoColor=fb4f05&color=111111" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/senshawb" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-senshawb-000000?style=flat-square&logo=linkedin&logoColor=fb4f05&color=111111" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:senshawb@gmail.com">
+    <img src="https://img.shields.io/badge/email-senshawb@gmail.com-000000?style=flat-square&logo=gmail&logoColor=fb4f05&color=111111" />
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  <i>"Code is poetry. Make it elegant, make it scalable, make it matter."</i>
+  <code>// clean code. scalable systems. meaningful work.</code>
 </p>
